@@ -1,0 +1,21 @@
+Oct 22 10:15:01 server sshd[1234]: Failed password for root from 203.0.113.5 port 52144 ssh2
+Oct 22 10:15:04 server sshd[1234]: Failed password for admin from 203.0.113.5 port 52150 ssh2
+Oct 22 10:15:07 server sshd[1234]: Failed password for invalid user test from 203.0.113.5 port 52158 ssh2
+Oct 22 10:15:11 server sshd[1234]: Failed password for root from 203.0.113.5 port 52166 ssh2
+Oct 22 10:15:15 server sshd[1234]: Failed password for invalid user oracle from 203.0.113.5 port 52171 ssh2
+Oct 22 10:15:19 server sshd[1234]: Failed password for admin from 203.0.113.5 port 52180 ssh2
+Oct 22 10:15:23 server sshd[1234]: Failed password for root from 203.0.113.5 port 52187 ssh2
+Oct 22 10:15:27 server sshd[1234]: Failed password for invalid user ubuntu from 203.0.113.5 port 52193 ssh2
+Oct 22 10:16:30 server sshd[1240]: Accepted password for vikita from 198.51.100.7 port 40022 ssh2
+Oct 22 10:17:02 server sshd[1245]: Failed password for vikita from 198.51.100.7 port 40101 ssh2
+Oct 22 10:18:10 server sshd[1251]: Failed password for root from 198.51.100.23 port 33001 ssh2
+Oct 22 10:18:13 server sshd[1251]: Failed password for root from 198.51.100.23 port 33007 ssh2
+Oct 22 10:18:17 server sshd[1251]: Failed password for root from 198.51.100.23 port 33012 ssh2
+Oct 22 10:18:21 server sshd[1251]: Failed password for admin from 198.51.100.23 port 33019 ssh2
+Oct 22 10:18:25 server sshd[1251]: Failed password for admin from 198.51.100.23 port 33024 ssh2
+Oct 22 10:18:29 server sshd[1251]: Failed password for root from 198.51.100.23 port 33030 ssh2
+Oct 22 10:19:44 server sshd[1260]: Failed password for invalid user test from 192.0.2.44 port 45500 ssh2
+Oct 22 10:20:50 server sshd[1266]: Failed password for jsmith from 192.0.2.44 port 45511 ssh2
+Oct 22 10:21:15 server sshd[1270]: Accepted password for jsmith from 192.0.2.44 port 45530 ssh2
+Oct 22 10:22:40 server sshd[1275]: Accepted publickey for deploy from 198.51.100.99 port 51234 ssh2
+Oct 22 10:23:05 server sshd[1280]: Connection closed by 198.51.100.99 port 51234
