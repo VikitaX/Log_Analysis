@@ -22,9 +22,9 @@ def detect_failed_logins(file):
             filtered_dict = ip_and_timestamp(line) 
             ip = filtered_dict['ip']
             if ip in ip_dict:
-                ip_dict[ip] += 
+                ip_dict[ip] += filtered_dict['timestamp']
             else:
-                ip_dict[ip] = 1 #Initializes the count of failed login attempts for that IP address to 1
+                ip_dict[ip] = filtered_dict['timestamp']
 
     return ip_dict #return dictionary of IP addresses and their failed login attempt counts
 
